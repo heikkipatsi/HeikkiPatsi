@@ -2,4 +2,4 @@
 
 My biggest interests are in WebDev and Full-Stack development 🌏
 
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
